@@ -1,0 +1,59 @@
+header{
+  padding: 75px 100px;
+  background-color: gold;
+  gap: 5px;
+}
+main{
+  width: 1300px;
+  margin: 0 auto;
+}
+h1{
+  color: white;
+  font-size: 60px;
+}
+p{
+  color: rgb(70, 70, 70);
+  font-size: 20px;
+}
+.poisk{
+  background-color: white;
+  width: 500px;
+  height: 120px;
+  padding: 15px;
+  border-radius: 5px;
+}
+.btn_search{
+  padding: 5px 10px;
+  background: linear-gradient(95.71deg, #FF7A7A -39.64%, #F75900 135.31%);
+  border-radius: 5px;
+  border: none;
+  width: 140px;
+  height: 40px;
+  color: white;
+  margin-left: 20px;
+}
+.poiskinput{
+  padding: 5px 10px;
+  width: 300px;
+  height: 15px;
+}
+.dastavka{
+  padding:5px 10px;
+  width: 120px;
+  height: 30px;
+  margin: 5px 25px 25px 10px;
+  border-radius: 10px;
+  border:1px solid #F75900;
+  background: #F172281A;
+  color: #F75900;
+
+}
+.dastavka2{
+  padding:5px 10px;
+  width: 120px;
+  height: 30px;
+  margin: 5px 25px 25px 10px;
+  background-color: white;
+  border:2px solid gray;
+  border-radius: 10px;
+}
